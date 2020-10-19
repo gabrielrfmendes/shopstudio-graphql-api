@@ -11,8 +11,11 @@
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
     "graphql": "^15.3.0",
+    "mongoose": "^5.10.9",
     "mysql2": "^2.2.5",
-    "sequelize": "^6.3.5"
+    "package.json": "^2.0.1",
+    "sequelize": "^6.3.5",
+    "yarn.lock": "^0.0.1-security"
   },
   "devDependencies": {
     "sequelize-cli": "^6.2.0"
